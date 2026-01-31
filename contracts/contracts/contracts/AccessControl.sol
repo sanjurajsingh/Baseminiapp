@@ -5,3 +5,6 @@ contracts AccessControl {}
 contract AccessControl {
     address public admin;
 }
+constructor() {
+    admin = msg.sender;
+}
