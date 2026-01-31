@@ -10,3 +10,4 @@ Frontend planned using Next.js and Tailwind.
 Deployed using Vercel.
 This project analyzes Base wallets using on-chain and indexed data.
 Built as part of the Base Builder Program.
+Future plans include wallet ranking and reputation scoring.
