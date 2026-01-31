@@ -5,3 +5,4 @@ contracts BaseToken. {}
 contract BaseToken {
     string public name = "BaseToken";
 }
+string public symbol = "BASE";
