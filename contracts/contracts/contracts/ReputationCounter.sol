@@ -5,3 +5,6 @@ contracts ReputationCounter {}
 contract ReputationCounter {
     mapping(address => uint256) public txCount;
 }
+function increment(address user) public {
+    txCount[user] += 1;
+}
