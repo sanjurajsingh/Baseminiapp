@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
-pragma solidity 0.8.31;
+contract ReputationHub {
+    mapping(address => uint8) public reputation;
+}
 
-contract ReputationHub {}
