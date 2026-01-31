@@ -5,3 +5,6 @@ contracts EventLogger {}
 contract EventLogger {
     event ActionLogged(address user);
 }
+function log(address user) public {
+    emit ActionLogged(user);
+}
