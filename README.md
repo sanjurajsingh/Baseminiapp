@@ -8,3 +8,4 @@ Designed as a Base Mini App.
 Prepared for Base builder submission.
 Frontend planned using Next.js and Tailwind.
 Deployed using Vercel.
+This project analyzes Base wallets using on-chain and indexed data.
