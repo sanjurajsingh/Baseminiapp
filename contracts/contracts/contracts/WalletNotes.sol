@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
-pragma solidity 0.8.31;
+contract WalletNotes {
+    mapping(address => string) public notes;
+}
 
-contracts WalletNotes {}
